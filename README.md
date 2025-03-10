@@ -14,38 +14,7 @@ The **AI-Powered SQL Query Generator** is a smart tool that allows users to gene
 - 🌍 **Multi-Lingual Support**: Supports over 100 languages for global accessibility.
 
 ## Database Setup
-This project uses an SQLite database (`database.db`). The schema consists of two tables: `STUDENT` and `FACULTY`.
-
-### STUDENT Table
-Stores student details:
-- `NAME` (VARCHAR) - Student's name
-- `CLASS` (VARCHAR) - Class name
-- `SECTION` (VARCHAR) - Section
-- `MARKS` (INT) - Marks obtained
-
-#### Sample Entries:
-| NAME   | CLASS  | SECTION | MARKS |
-|--------|--------|---------|-------|
-| Rishi  | CSAI   | AI2     | 100   |
-| Tushar | CSAIML | AIML4   | 100   |
-| Lalit  | CSAIML | AIML4   | 86    |
-| Gautam | IT     | D       | 50    |
-| Harsh  | IT     | D       | 35    |
-| Yash   | AIML   | A       | 35    |
-
-### FACULTY Table
-Stores faculty information:
-- `NAME` (VARCHAR) - Faculty's name
-- `DEPARTMENT` (VARCHAR) - Department name
-- `EXPERIENCE` (INT) - Years of experience
-
-#### Sample Entries:
-| NAME                | DEPARTMENT     | EXPERIENCE |
-|---------------------|---------------|------------|
-| Dr. Premsagar Sharma | CDC           | 15         |
-| Amit Pandey        | CDC           | 10         |
-| Prof. Gupta       | AI & ML       | 8          |
-| Prof. Sen        | Cybersecurity | 12         |
+This project uses an SQLite database (`database.db`).
 
 ## Installation & Usage
 
