@@ -1,6 +1,7 @@
 # AI-Powered SQL Query Generator
 
-![AI-Powered SQL Query Generator](./Screenshot%202025-03-10%20215856.png)
+![AI-Powered SQL Query Generator](![Screenshot 2025-03-10 215856](https://github.com/user-attachments/assets/9c445baa-4bc9-4143-9c3a-eaae3dd14523)
+)
 
 ## Introduction
 The **AI-Powered SQL Query Generator** is a smart tool that allows users to generate and execute SQL queries using voice and text inputs. This application integrates AI to convert natural language queries into SQL, making database interactions seamless for users without deep SQL knowledge.
