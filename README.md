@@ -1,6 +1,6 @@
 # AI-Powered SQL Query Generator
 
-(![Screenshot 2025-03-10 215856](https://github.com/user-attachments/assets/9c445baa-4bc9-4143-9c3a-eaae3dd14523)
+![Screenshot 2025-03-10 215856](https://github.com/user-attachments/assets/9c445baa-4bc9-4143-9c3a-eaae3dd14523)
 
 
 ## Introduction
