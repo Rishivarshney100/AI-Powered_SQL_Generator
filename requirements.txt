@@ -1,0 +1,7 @@
+# python -m venv myenv
+
+# myenv\Scripts\Activate
+
+streamlit
+google-generativeai
+python-dotenv
