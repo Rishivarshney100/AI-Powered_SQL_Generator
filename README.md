@@ -75,6 +75,20 @@ This project uses an SQLite database (`database.db`).
 4. Click **Generate SQL Query** to convert natural language to SQL.
 5. Execute the query with the **Execute Query** button.
 
+## Future Scope of the Project
+The Query Wizard project has significant potential for expansion. Future improvements could include:
+
+- **Enhancing AI accuracy** with fine-tuned NLP models for more complex SQL queries.
+- **Extending database compatibility** to support MySQL, PostgreSQL, and MongoDB.
+- **Introducing role-based access control** to ensure security in multi-user environments.
+- **Improving query optimization techniques** for faster execution.
+- **Adding visualization features**, allowing users to generate reports and graphs from SQL queries.
+- **Mobile application integration**, enabling users to interact with the system on the go.
+- **Cloud storage support**, allowing queries and database access from remote locations.
+- **Deploying Query Wizard as a SaaS platform** and improving **multi-language NLP processing** to further enhance usability.
+
+These enhancements will make **Query Wizard** a **robust, scalable, and industry-ready solution** for AI-driven database interactions. 
+
 ## 🛠 Troubleshooting
 
 ### ❌ "Table does not exist"
