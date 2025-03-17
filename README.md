@@ -1,10 +1,10 @@
-# AI-Powered SQL Query Generator
+# QueryWizard
 
 ![Screenshot 2025-03-10 215856](https://github.com/user-attachments/assets/9c445baa-4bc9-4143-9c3a-eaae3dd14523)
 
 
 ## Introduction
-The **AI-Powered SQL Query Generator** is a smart tool that allows users to generate and execute SQL queries using voice and text inputs. This application integrates AI to convert natural language queries into SQL, making database interactions seamless for users without deep SQL knowledge.
+The **Query Wizard** is a smart tool that allows users to generate and execute SQL queries using voice and text inputs. This application integrates AI to convert natural language queries into SQL, making database interactions seamless for users without deep SQL knowledge.
 
 ## 🚀 Project Overview
 
@@ -38,7 +38,7 @@ With this system, users can:
 - 💬 **LLM to SQL Converter**: Transforms natural language queries into SQL commands.
 - 🧠 **AI-Powered Query Generation**: AI-driven query creation for ease of use.
 - 📊 **Live SQL Execution**: Run SQL queries instantly on the selected database.
-- 🌍 **Multi-Lingual Support**: Supports over 100 languages for global accessibility.
+- 🌍 **Multi-Lingual Support**: Supports multiple languages for global accessibility.
 
 ## Database Setup
 This project uses an SQLite database (`database.db`).
@@ -53,7 +53,7 @@ This project uses an SQLite database (`database.db`).
 ### Running the Application
 1. Clone this repository:
    ```sh
-   git clone https://github.com/AI-Powered_SQL_Generator/sql-query-generator.git
+   git clone https://github.com/Query-Wizard/sql-query-generator.git
    ```
 2. Navigate to the project directory:
    ```sh
